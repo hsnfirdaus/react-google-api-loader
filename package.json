@@ -1,7 +1,7 @@
 {
 	"name": "@react-google-api/loader",
 	"private": false,
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"type": "module",
 	"types": "dist/index.d.ts",
 	"exports": {
@@ -25,6 +25,10 @@
 		"name": "Muhammad Hasan Firdaus",
 		"email": "hasanteam008@gmail.com",
 		"url": "https://github.com/hsnfirdaus"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hsnfirdaus/react-google-api-loader"
 	},
 	"peerDependencies": {
 		"react": "^18.2.0",

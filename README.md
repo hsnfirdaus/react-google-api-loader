@@ -2,6 +2,18 @@
 
 React wrapper for Google API Loader script (https://apis.google.com/js/api.js).
 
+## Installation
+
+```bash
+yarn add @react-google-api/loader
+```
+
+or
+
+```bash
+npm i @react-google-api/loader
+```
+
 ## Usage
 
 Simple example:
